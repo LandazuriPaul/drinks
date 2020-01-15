@@ -1,0 +1,5 @@
+import styled from 'styled-components';
+
+export const Marker = styled.img`
+  cursor: pointer;
+`;
