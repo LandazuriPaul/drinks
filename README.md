@@ -4,7 +4,7 @@ This repository is my submission to the home challenge requested by Silicon Rhin
 
 ## Notes about the codebase
 
-This TypeScript codebase has been developed using a number of frontend technologies. Here is a non exhaustive list of them:
+This TypeScript codebase has been developed using a number of frontend technologies. Here is a non-exhaustive list of them:
 
 - [React](https://reactjs.org/): To build the interface. As a side note, this codebase uses the hook system.
 - [Material UI](https://material-ui.com/): As a quick UI framework
